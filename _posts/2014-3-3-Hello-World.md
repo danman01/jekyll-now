@@ -2,7 +2,10 @@
 layout: post
 title: Hello World
 published: true
+tags: "meta, press, ocean"
+categories: travel
 ---
+
 
 
 Whoa my water bottle is famous! 
