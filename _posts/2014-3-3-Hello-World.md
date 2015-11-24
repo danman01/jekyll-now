@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World
+published: true
+tags: "meta, press, ocean"
+categories: travel
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Whoa my water bottle is famous! 
+
+Interview from Pacific Rowers featuring Year Without Plastic:
+[<img src="http://pacificrowers.com/wp-content/uploads/2014/01/dann-erin-norway.jpeg">](http://pacificrowers.com/danny-kirschner-a-year-without-plastic-part-i/)
+
+The subliminal messaging here is if you use a stainless steel water bottle, you always get the girl.
