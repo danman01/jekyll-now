@@ -22,7 +22,7 @@ author:
 
 I rolled into a quiet college town in eastern Connecticut called Willimantic. It's off of highway 6 that runs from Providence, RI all the way to around Hartford, CT. To Rhode Islanders, that's about halfway across the US. 
 
-![Willimantic-Greetings-W.jpg]({{site.baseurl}}/_drafts/Willimantic-Greetings-W.jpg)
+![Willimantic-Greetings-W.jpg]({{site.baseurl}}/media/Willimantic-Greetings-W.jpg)
 
 I was coming back from spending Thanksgiving with friends and family around Cheshire, CT. Google maps offered us a variety of routes, and we chose the one that was a combination of no accidents, less mileage, and a road that we recognized. I also had highway 6 and Willimantic stuck in my mind, as I had read up on the [No Trash Project's blog](http://notrashproject.com/) about a little coop that had bulk everything. 
 
@@ -45,7 +45,7 @@ At the register, we were prepared to pay the non co-op-member price of 10% above
 Filled with endorphines that only bulk shopping can bring on, we left the store, waving goodbye to the workers, and smiling as we marched through the rain to the car. The next stop would be a few blocks over where we erroniously thought a friends' band was playing at a record store. We discovered Main Street has nothing opened past 7pm on a Saturday night. We hung out outside a closed record shop, wondering where the band was. Then we had the genius idea to check Facebook™, and noted the updated event time of two weeks into the future. Perfect. Another adventure to the co-op is already in the works.
 
 P.S: Willimantic has frogs on spools of thread guarding a bridge
-![Frog-Bridge-1.jpg]({{site.baseurl}}/_drafts/Frog-Bridge-1.jpg)
+![Frog-Bridge-1.jpg]({{site.baseurl}}/media/Frog-Bridge-1.jpg)
 
 
 P.P.S: There's a [brewing company](http://www.willimanticbrewingcompany.com/) on main street that we somehow missed
