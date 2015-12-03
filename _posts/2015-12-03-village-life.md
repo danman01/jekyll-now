@@ -18,9 +18,10 @@ author:
   display_name: danny
 ---
 
-## About a week ago
 
-I rolled into a quiet college town in eastern Connecticut called Willimantic. It's off of highway 6 that runs from Providence, RI all the way to around Hartford, CT. To Rhode Islanders, that's about halfway across the US. 
+## Willimantic, CT - home of a great food co-op and large frog statues
+
+About a week ago, I rolled into a quiet college town in eastern Connecticut called Willimantic. It's off of highway 6 that runs from Providence, RI all the way to around Hartford, CT. To Rhode Islanders, that's about halfway across the US. 
 
 ![Willimantic-Greetings-W.jpg]({{site.baseurl}}/media/Willimantic-Greetings-W.jpg)
 
@@ -49,5 +50,3 @@ P.S: Willimantic has frogs on spools of thread guarding a bridge
 
 
 P.P.S: There's a [brewing company](http://www.willimanticbrewingcompany.com/) on main street that we somehow missed
-
-
