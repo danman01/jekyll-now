@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2015-12-03T00:00:00.000Z
 type: post
 status: publish
 categories: 
